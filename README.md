@@ -1,25 +1,18 @@
 # 👋 Olá, eu sou Michael Douglas
 
-💻 **Front-End Developer em formação**
-🚀 Apaixonado por tecnologia, desenvolvimento web e criação de interfaces modernas.
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=600&lines=Front-End+Developer;Estudando+HTML+CSS+JavaScript;Apaixonado+por+Tecnologia;Construindo+Projetos+Todos+os+Dias" />
 
 ---
 
 ## 🚀 Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-
----
-
-## 📚 Atualmente estudando
-
-* Front-End Development
-* Full Stack Development
-* React
+<p>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
@@ -31,9 +24,15 @@
 
 ---
 
-## 🔥 Streak de contribuições
+## 🔥 Sequência de contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=douglasfullstackdev\&theme=tokyonight)
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/SEUUSUARIO/douglasfullstackdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -43,4 +42,4 @@
 
 ---
 
-⭐ Sempre aprendendo e construindo novos projetos!
+![](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
