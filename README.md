@@ -42,4 +42,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
+![](https://komarev.com/ghpvc/?username=douglasfullstackdev\&color=blue)
