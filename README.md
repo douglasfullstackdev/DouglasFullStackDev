@@ -32,7 +32,7 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/SEUUSUARIO/douglasfullstackdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/douglasfullstackdev/douglasfullstackdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
